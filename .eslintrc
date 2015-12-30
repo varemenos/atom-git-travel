@@ -70,7 +70,7 @@
         "consistent-this": [1, "self"],
         "eol-last": [2],
         "func-style": [2, "expression"],
-        "indent": [2, 4],
+        "indent": [2, 2],
         "key-spacing": [2, {
             "beforeColon": false,
             "afterColon": true
