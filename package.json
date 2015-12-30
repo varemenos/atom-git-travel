@@ -1,0 +1,19 @@
+{
+  "name": "atom-git-replay",
+  "main": "./lib/atom-git-replay",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-git-replay:toggle"
+  },
+  "repository": "https://github.com/atom/atom-git-replay",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "nodegit": "^0.6.3"
+  }
+}
