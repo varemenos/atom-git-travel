@@ -1,12 +1,9 @@
 {
-    "ecmaFeatures": {
-        "arrowFunctions": true,
-        "jsx": true,
-        "modules": true,
-        "destructuring": true
+    "env": {
+        "es6": true
     },
     "rules": {
-        "strict": [2, "function"],
+        "strict": [2, "global"],
         "comma-dangle": [2, "never"],
         "no-cond-assign": [2, "always"],
         "no-console": [1],
