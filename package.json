@@ -1,13 +1,13 @@
 {
-  "name": "atom-git-replay",
-  "main": "./lib/atom-git-replay",
+  "name": "git-replay",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "",
   "keywords": [
     "git"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-git-replay:toggle"
+    "atom-workspace": "git-replay:toggle"
   },
   "repository": "https://github.com/atom/atom-git-replay",
   "license": "MIT",

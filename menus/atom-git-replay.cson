@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle atom-git-replay'
-      'command': 'atom-git-replay:toggle'
+      'label': 'Toggle git-replay'
+      'command': 'git-replay:toggle'
     }
   ]
