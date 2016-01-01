@@ -6,17 +6,3 @@
       'command': 'atom-git-replay:toggle'
     }
   ]
-'menu': [
-  {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'atom-git-replay'
-      'submenu': [
-        {
-          'label': 'Toggle'
-          'command': 'atom-git-replay:toggle'
-        }
-      ]
-    ]
-  }
-]
