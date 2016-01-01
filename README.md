@@ -1,11 +1,11 @@
-# Atom Git Replay
+# Atom Git Travel
 
 > An Atom package that helps you travel through branches, tags and commits :rocket:.
 
 ## Installation
 
 ```shell
-apm install git-replay
+apm install git-travel
 ```
 
 ## License

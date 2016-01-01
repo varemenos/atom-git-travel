@@ -1,5 +1,5 @@
 {
-  "name": "git-replay",
+  "name": "git-travel",
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "",
@@ -7,9 +7,9 @@
     "git"
   ],
   "activationCommands": {
-    "atom-workspace": "git-replay:toggle"
+    "atom-workspace": "git-travel:toggle"
   },
-  "repository": "https://github.com/atom/atom-git-replay",
+  "repository": "https://github.com/atom/atom-git-travel",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
