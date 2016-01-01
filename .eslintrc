@@ -31,7 +31,6 @@
         "valid-jsdoc": [1],
         "valid-typeof": [2],
         "no-unexpected-multiline": [2],
-        "no-catch-shadow": [2],
         "no-delete-var": [2],
         "no-label-var": [2],
         "no-shadow-restricted-names": [2],
