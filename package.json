@@ -2,8 +2,10 @@
   "name": "atom-git-replay",
   "main": "./lib/atom-git-replay",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "",
+  "keywords": [
+    "git"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-git-replay:toggle"
   },
