@@ -4,7 +4,7 @@
 
 ## Installation
 
-_DEPRECATED, please use [https://atom.io/packages/git-time-machine](git-time-machine) instead_
+_DEPRECATED, please use [git-time-machine](https://atom.io/packages/git-time-machine) instead_
 
 ```shell
 # apm install git-travel
